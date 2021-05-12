@@ -1,4 +1,5 @@
-# CRC计算库 in C#
+# CRC计算库 in C# (适用于8-32位的CRC校验)
+
 # 使用说明
 
 byte[] input = Encoding.ASCII.GetBytes("1234567");  
