@@ -1,4 +1,4 @@
-# CRC计算库
+# CRC计算库 in C#
 # 使用说明
 
 byte[] input = Encoding.ASCII.GetBytes("1234567");  
